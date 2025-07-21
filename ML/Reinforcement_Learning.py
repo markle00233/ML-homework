@@ -1,0 +1,2 @@
+# là việc AGENT sẽ đưa ra quyết định hoặc hành động giữa theo Môi Trường )(Envỉonment)  reward là kết quả sau hành động (action)
+# hàm đahs giá trạng thi sau hành động Gt = rt + Yrt + 1 + Y^2rt-2 +... = singma T - t, k= 0 = 
